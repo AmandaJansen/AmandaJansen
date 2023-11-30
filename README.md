@@ -1,6 +1,6 @@
-# Olá! Seja bem vindo ao meu perfil do GitHub 🖐️
+# Olá, me chamo Amanda e este é meu perfil! 🖐️
 
-Olá, me chamo Amanda e este é meu perfil.
+
 Continuamente tenho estudado algumas linguagens de programação, aqui você pode ter um preview de algumas delas.
 
 ### Skills:
