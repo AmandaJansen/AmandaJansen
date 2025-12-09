@@ -3,10 +3,10 @@
 <div align="center">
 <p>A technology enthusiast continually exploring and enhancing my skills in various programming languages. Here's an overview of my profile:</p> <br><br>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaJansen&show_icons=true&theme=transparent" alt="AmandaJansen's GitHub Stats">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaJansen&layout=compact&theme=transparent" alt="Top Languages">
-</div>
+</div> -->
 
 ## Skills:
 
